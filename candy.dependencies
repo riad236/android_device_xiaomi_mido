@@ -1,7 +1,7 @@
 [
   {
     "branch": "c7.1",
-    "repository": "riad/android_kernel_xiaomi_msm8953",
+    "repository": "riad236/android_kernel_xiaomi_msm8953",
     "target_path": "kernel/xiaomi/msm8953",
     "remote": "github"
   },
